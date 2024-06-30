@@ -82,5 +82,38 @@ This project provides a foundation for a driver drowsiness monitoring system. It
 
 
 
+
+The eye region is marked by 6 coordinates. These coordinates can be used to find whether the eye is open or closed if the value of EAR is checked with a certain threshold value.
+
+
 ![image](https://github.com/Thejaswini02/Driver-Drowsiness-Monitoring-System/assets/115609807/4eb5400c-cde8-4643-807b-149aa2dbfd69)
+
+
+
+
+
+
+After starting the server, an IP will be displayed on the screen. Open the file android_cam.py. In line 36 put the given IP.
+
+url = "http://<YOUR_IP_HERE>/shot.jpg"
+Also, make sure that the phone and PC/Laptop is connected to the same network.
+
+Then, run the system in the same way as mentioned above. Click on the Run Using Phone Cam button to see the results:
+
+
+
+![image](https://github.com/Thejaswini02/Driver-Drowsiness-Monitoring-System/assets/115609807/a1904e6e-cbc6-4890-b031-4dad76304983)
+
+
+
+
+
+Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the working clearer to the audience. The graph looks like:
+
+
+![image](https://github.com/Thejaswini02/Driver-Drowsiness-Monitoring-System/assets/115609807/c424aa79-5489-4931-893b-852409ed81f9)
+
+
+
+
 

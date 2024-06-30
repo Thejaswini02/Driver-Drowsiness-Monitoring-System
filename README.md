@@ -79,3 +79,8 @@ Run Flask Application: Execute the Python script to start the Flask server and b
 Access Web Interface: Open a web browser and navigate to http://127.0.0.1:5000/ to view the live video feed and monitor drowsiness.
 
 This project provides a foundation for a driver drowsiness monitoring system. It can be further developed and refined to create a robust solution for real-world applications.
+
+
+
+![image](https://github.com/Thejaswini02/Driver-Drowsiness-Monitoring-System/assets/115609807/4eb5400c-cde8-4643-807b-149aa2dbfd69)
+

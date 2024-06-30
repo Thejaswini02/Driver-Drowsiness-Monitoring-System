@@ -25,3 +25,4 @@ b. Run the Flask application:
 python drowsiness_detection.py
 
 c. Open a web browser and navigate to http://127.0.0.1:5000/ to see the video feed with drowsiness detection.
+This setup creates a basic driver drowsiness monitoring system. You can enhance it further by adding more sophisticated algorithms and features like sending alerts, logging drowsiness events, and integrating with a vehicle's system.
